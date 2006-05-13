@@ -1,0 +1,32 @@
+*******************************************
+** ZMIntrospection V0.1.1 [R1 build 2006/02/13-10:41 by madarche]
+** SVN URL: https://svn.nuxeo.org/pub/ZMIntrospection/trunk Revision: 32748
+Requires:
+~~~~~~~~~
+-
+New features:
+~~~~~~~~~~~~~
+-
+Bug fixes:
+~~~~~~~~~~
+- Added a needed security check.
+New internal features:
+~~~~~~~~~~~~~~~~~~~~~~
+-
+
+*******************************************
+** ZMIntrospection V0.1.0 [R1 build 2005/04/13-09:12 by ben]
+
+Requires:
+~~~~~~~~~
+-
+New features:
+~~~~~~~~~~~~~
+- first packaging
+Bug fixes:
+~~~~~~~~~~
+-
+New internal features:
+~~~~~~~~~~~~~~~~~~~~~~
+-
+
