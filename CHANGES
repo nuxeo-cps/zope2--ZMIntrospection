@@ -3,7 +3,7 @@ Requires:
 -
 New features:
 ~~~~~~~~~~~~~
--
+- Add navigation into an object's attributes.
 Bug fixes:
 ~~~~~~~~~~
 -
