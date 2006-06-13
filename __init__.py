@@ -77,8 +77,8 @@ try:
     Item.manage_introspection = HTMLFile('zmi/manage_introspection', globals())
     Item.introspection = introspection
 
-    from zLOG import LOG, INFO
-    LOG('ZMIntrospection', INFO, 'Applied patch.')
+    import logging
+    logging.getLogger('ZMIntrospection').info("Applied patch.")
 
 except:
     import traceback
