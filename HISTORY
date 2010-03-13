@@ -1,4 +1,21 @@
 ===========================================================
+Package: ZMIntrospection 0.3.0
+===========================================================
+First release built by: gracinet at: 2010-03-13T14:56:17
+Requires
+~~~~~~~~
+-
+New features
+~~~~~~~~~~~~
+-
+Bug fixes
+~~~~~~~~~
+-
+New internal features
+~~~~~~~~~~~~~~~~~~~~~
+- Switch to mercurial DVCS and hgbundler packaging management 
+
+===========================================================
 Package: ZMIntrospection 0.2.2
 ===========================================================
 First release built by: madarche at: 2006-12-04T15:34:49
